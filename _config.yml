@@ -22,7 +22,7 @@ subtitle                 : Focus on the present # site tagline that appears belo
 name                     : Kevin # 메인페이지 하단에 나오는 이름
 description              :
 url                      : https://readyfornewnormal.github.io
-baseurl                  : /awesomekevin
+baseurl                  : /
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : #"/assets/images/newnormal/88x88.png" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : #"/assets/images/newnormal/88x88.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
