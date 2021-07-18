@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6bbd322c-8202-4e7d-9763-628fd725dca9" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2020-07-07-Disqus TEst 2.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2021-07-04-테스트파일.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2021-07-07-Disqus.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2021-07-07-book1.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,7 +25,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/_posts" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
