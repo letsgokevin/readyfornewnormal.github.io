@@ -18,3 +18,6 @@ author_profile: true
 
 **항상 건강하고 행복하세요!!**
 
+**Email: awesome9751@gmail.com**<br/>
+**Instagram: <https://www.instagram.com/__newnormal/>**
+
