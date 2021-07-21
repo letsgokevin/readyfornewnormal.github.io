@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6bbd322c-8202-4e7d-9763-628fd725dca9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/_posts/IT/2021-07-21-IT1.md" afterDir="false" />
-    </list>
+    <list default="true" id="6bbd322c-8202-4e7d-9763-628fd725dca9" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,6 +31,7 @@
       <recent name="C:\Users\김기만\Documents\GitHub\awesomekevin\_pages\categories" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\김기만\Documents\GitHub\readyfornewnormal.github.io\_posts" />
       <recent name="C:\Users\김기만\Documents\GitHub\readyfornewnormal.github.io\_posts\book" />
     </key>
   </component>
