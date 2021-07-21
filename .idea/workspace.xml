@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6bbd322c-8202-4e7d-9763-628fd725dca9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/_posts/book/2021-07-07-book2.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/book/2021-07-07-book1.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/book/2021-07-07-book1.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,15 +24,16 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/_posts" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/_posts/book" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\김기만\Documents\GitHub\readyfornewnormal.github.io\_posts\book" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\김기만\Documents\GitHub\readyfornewnormal.github.io\_posts\book" />
       <recent name="C:\Users\김기만\Documents\GitHub\readyfornewnormal.github.io\_posts" />
       <recent name="C:\Users\김기만\Documents\GitHub\awesomekevin\_pages\categories" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\김기만\Documents\GitHub\readyfornewnormal.github.io\_posts\book" />
     </key>
   </component>
   <component name="SvnConfiguration">
