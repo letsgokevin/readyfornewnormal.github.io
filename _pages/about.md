@@ -19,6 +19,3 @@ author_profile: true
 **- Email: awesome9751@gmail.com**<br/>
 **- Instagram: <https://www.instagram.com/__newnormal/>**
 
-![KakaoTalk_20210726_144235260](https://user-images.githubusercontent.com/86281619/126938856-94d15ada-7cd7-4a90-9da4-edba2c477aa5.jpg{: width="100%" height="100%"}{: .align-center}
-
-
