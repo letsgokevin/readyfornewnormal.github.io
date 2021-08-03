@@ -10,6 +10,7 @@ author_profile: true
 
 ![about me](https://user-images.githubusercontent.com/86281619/127961977-d1df6b82-ff35-4dfc-9f28-057f1991f993.png){: width="70% height="70%}{: .align-left}
 
+
 **- MBTI: ENFJ-A**<br/>
 **- Email: awesome9751@gmail.com**<br/>
 **- Instagram: <https://www.instagram.com/__newnormal/>**
