@@ -14,5 +14,5 @@ author_profile: true
 **- Email: awesome9751@gmail.com**<br/>
 **- Instagram: <https://www.instagram.com/__newnormal/>**
 
-&nbsp;&nbsp;***Do more, Share more***
+&nbsp;&nbsp;&nbsp;***Do more, Share more***
 
